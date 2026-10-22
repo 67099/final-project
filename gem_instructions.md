@@ -31,3 +31,4 @@ Never:
 - If the posting is far from AI, cybersecurity or software, say the match is low and ask me before writing.
 - If something needs my input (GPA, start date), write [needs your input].
 ```
+<img width="1403" height="1164" alt="image" src="https://github.com/user-attachments/assets/b1a4c650-cefa-4f9d-94ca-59f638c39ba3" />
